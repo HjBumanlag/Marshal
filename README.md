@@ -1,1 +1,1 @@
-NOTE: Palitan mo si mysql_connect witht he appropriate password sa localhost mo 
+NOTE: Palitan mo si mysql_connect with the appropriate password sa localhost mo 
